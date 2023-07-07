@@ -960,5 +960,10 @@ section {
     font-size: 4rem;
   }
 }
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
+
 
 /*# sourceMappingURL=styles.css.map */
