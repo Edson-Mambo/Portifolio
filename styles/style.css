@@ -1,0 +1,29 @@
+
+body{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between; /* Alinha os elementos horizontalmente com espaçamento entre eles */
+    padding: 20px;
+  }
+  
+  .info-box {
+    flex-basis: 30%; /* Define a largura dos elementos */
+    background-color: lightgray;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .saber-button {
+    display: inline-block;
+    background-color: #ff0000; /* Substitua #ff0000 pelo código da cor desejada */
+    color: #ffffff; /* Define a cor do texto no botão */
+    padding: 10px 20px; /* Define o espaçamento interno do botão */
+    text-decoration: none; /* Remove a sublinhado padrão do link */
+    border-radius: 5px; /* Adiciona cantos arredondados ao botão */
+  }
+
+  
